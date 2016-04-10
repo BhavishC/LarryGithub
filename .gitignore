@@ -1,0 +1,27 @@
+
+# OS X filesystem file
+.DS_Store
+
+##Windows filesystem files
+Thumbs.db
+
+# Compiled files
+*.exe
+*.class
+*.pyc
+*.o
+
+# Node modules
+node_modules/
+
+# Other
+*.zip
+#Si no quieres que ignore uno en concreto
+!este_archivo.zip
+
+#Android
+*.apk
+.idea/
+
+# HTML files
+*.html
